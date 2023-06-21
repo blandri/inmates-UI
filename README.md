@@ -1,1 +1,1 @@
-# inmates-UI
+# justicebot-intern-program
